@@ -1,1 +1,2 @@
-Hours spent: 6.5
+deploy command:
+$ docker-compose -f all.yml up
